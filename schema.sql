@@ -19,7 +19,7 @@ VALUES
 ("Apple AirPods","Electronics",199.00,2),
 ("Lunch box","Coolers",12.99,10),
 ("Fleece Blanket","Home Goods",22.99,18),
-("The Declaration of Independence","Undeliverables",5,000,000.00,1),
+("The Declaration of Independence","Undeliverables",5000000.00,1),
 ("America United","Fantasy",2.00,1),
 ("12 Pack Coke Zero","Groceries",5.59,3),
 ("Apple Watch","Electronics",500.00,30),
