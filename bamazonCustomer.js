@@ -52,7 +52,7 @@ function seeItems() {
             }
             return choiceArray;
           },
-          message: "What item would you like to purchase?"
+          message: "What is the id of the item you would like to purchase?"
         },
         {
           type: "confirm",
